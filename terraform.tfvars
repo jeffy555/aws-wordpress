@@ -1,3 +1,3 @@
-username = ${username}
-password = ${password}
-dbname = ${database}
+username = "jeff"
+password = "jeff12345"
+dbname = "mydb"
